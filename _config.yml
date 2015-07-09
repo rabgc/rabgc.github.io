@@ -1,2 +1,3 @@
 name: Rick Bennett
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
