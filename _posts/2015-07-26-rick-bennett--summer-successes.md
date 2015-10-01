@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contemplating the universe in Rome"
+title: "Contemplating the universe from Rome, Italy"
 date: 2015-07-26
 ---
 
