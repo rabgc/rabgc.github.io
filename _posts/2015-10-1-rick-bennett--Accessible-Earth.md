@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rick Bennett,Accessible Earth"
+title: "Rick Bennett, Accessible Earth"
 date: 2015-10-01
 ---
 
