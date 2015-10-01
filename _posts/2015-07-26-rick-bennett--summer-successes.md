@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rick Bennett, contemplating the universe"
+title: "Contemplating the universe in Rome"
 date: 2015-07-26
 ---
 

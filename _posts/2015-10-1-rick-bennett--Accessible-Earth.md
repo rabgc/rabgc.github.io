@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rick Bennett, Accessible Earth"
+title: "Introducing The Accessible Earth Study Abroad"
 date: 2015-10-01
 ---
 
