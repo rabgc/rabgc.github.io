@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rick Bennett, Introducing The Accessible Earth Study Abroad Program, Department of Geosciences, University of Arizona"
+title: "Rick Bennett,Accessible Earth"
 date: 2015-10-01
 ---
 
