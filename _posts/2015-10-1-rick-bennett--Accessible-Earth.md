@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing The Accessible Earth Study Abroad"
+title: "Introducing Accessible Earth Study Abroad, Orvieto, Italy"
 date: 2015-10-01
 ---
 
